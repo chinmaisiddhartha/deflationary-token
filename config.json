@@ -1,0 +1,18 @@
+{
+  "private_key": "69e93a8d1a17365358cbeaed35da101445bc2ed542bd87203fd04e512912fbf6",
+  "JsonRpcProvider": "https://nd-927-536-000.p2pify.com/ed0281ced9ad311a9dee4f7188c7a259",
+  "total_supply": "1000000",
+<<<<<<< Updated upstream
+  "SaltsMarket": "0xa5f01151FD9180518aEed076564973BD0bEA53a7",
+  "SaltYard": "0xf1c9D644D36F95ff2241017767F88C12E5e71194",
+  "SaltsToken": "0x6E647A5267B408c42d2C0E80960F00753A536927",
+=======
+  "SaltsMarket": "0xcDf6e48907bfDc1f3E8344Df3AEe5284104267B2",
+  "SaltYard": "0x7265684f084DEAE35d6786e8b0cCB1E03d321aC5",
+  "StableCoin": "0x2A722D1234774AB909F5Dfa09Ed218b39f93a45F",
+  "SaltsToken": "0x92c844c1CFFF474fde7760eD92b4448Ce35d7CC5",
+>>>>>>> Stashed changes
+  "user": "0x60c72Ba20Aa1fA2a0262Fa776F64b48c932aBE61",
+  "user_private_key": "bd1c19bf7c1e10d41a9a569244f552e9527cdbe7fb0a4a324524d9a5484101ff",
+  "SaltsMarketPlace": "0xcDf6e48907bfDc1f3E8344Df3AEe5284104267B2"
+}
